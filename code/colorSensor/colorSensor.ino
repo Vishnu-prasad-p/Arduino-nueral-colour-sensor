@@ -1,12 +1,3 @@
-/////////////////////////////////////////////////////////////////////////////////
-//
-//  colorSensor.ino - Color sensor prototype using artificial neural networks
-//  Developed by Caio Benatti Moretti <www.moretticb.com>
-//  More details at:
-//  http://www.moretticb.com/blog/color-sensor-prototype-using-neural-networks/
-//
-/////////////////////////////////////////////////////////////////////////////////
-
 #include <Neurona.h>
 #include <LiquidCrystal.h>
 
